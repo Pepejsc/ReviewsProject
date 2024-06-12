@@ -1,11 +1,7 @@
 # ReviewsProject
-Here's a simple README for your Reviews Project based on the [provided link](https://pepejsc.github.io/ReviewsProject/):
-
----
-
 # Reviews Project
 
-Welcome to the Reviews Project! This project allows you to browse, add, and manage reviews for various products.
+Welcome to the Reviews Project! This project allows you to browse.
 
 ## Live Demo
 
