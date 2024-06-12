@@ -1,6 +1,4 @@
 # ReviewsProject
-# Reviews Project
-
 Welcome to the Reviews Project! This project allows you to browse.
 
 ## Live Demo
